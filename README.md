@@ -1,4 +1,4 @@
-# MixedBusinessAR
-AR for Mixed Business Show
+# GaffaHobbyShowAR
+AR for Hobby Show
 
-This project was a lot of trial and error. Any contirbutions or improvements would be greatly appreciatted. 
+All suggestions/improvements are welcome and any copying or repurposing of this project is encouraged!
